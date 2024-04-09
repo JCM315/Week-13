@@ -1,0 +1,18 @@
+.App {
+    text-align: center;
+  }
+  
+  .LoginForm {
+    border: 1px solid black;
+    padding: 20px;
+    margin: auto;
+    width: 200px;
+  }
+  
+  .Navigation {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+  
